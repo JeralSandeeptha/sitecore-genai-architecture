@@ -1,4 +1,4 @@
-# 🧠 Teralis Architecture Repository
+# Teralis Architecture Repository
 
 This repository contains the complete **software architecture documentation** for the project, including system design artifacts, architectural decisions, and deployment details.  
 It serves as a **single source of truth** for understanding the system’s structure, behavior, and rationale behind design choices.
