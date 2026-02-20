@@ -5,7 +5,7 @@ It serves as a **single source of truth** for understanding the system’s struc
 
 ---
 
-## 📘 Contents
+## Table of Contents
 
 ### 1. **Software Requirements Specification (SRS)**
 - Defines the project’s purpose, scope, and objectives.  
