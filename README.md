@@ -60,16 +60,16 @@ This repository is intended for:
 ## 📁 Repository Structure
 
 ```bash
-├── SRS/
+├── srs/
 │   └── software_requirements_specification.md
-├── Architecture/
+├── infra/
 │   ├── diagrams/
 │   └── system_architecture_overview.md
 │   └── system_architecture_overview.drawio
-├── Kubernetes/
+├── k8s/
 │   ├── deployments/
 │   └── services/
-├── ADR/
+├── adr/
 │   ├── 001-initial-architecture-decision.md
 │   └── 002-database-choice.md
 └── README.md
